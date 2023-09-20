@@ -4,11 +4,11 @@ Hey There! My name is Petar. ![](https://user-images.githubusercontent.com/18350
 I'm a active learner, always looking to improve and master new skills.  
 Open and honest individual.  
 I enjoy solving problems and overcoming challenges.    
-Currently learning Web development. 
+Modest, but hard working and I consistently sets firm goals for myself.   
 
 * 🌍  I'm based in Varna
 * ✉️  You can contact me at [popovstzid@gmail.com](mailto:popovstzid@gmail.com)
-* 🧠  I'm learning Python, HTML, CSS, JS
+* 🧠  Currently learning Web development. 
 
 ### Skills
 
