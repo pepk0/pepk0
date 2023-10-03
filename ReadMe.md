@@ -2,10 +2,10 @@ Hey There! 👋
 My name is Petar. 
 =================================================================================================================================================
 
-I'm a active learner, always looking to improve and master new skills.  
+I'm an active learner, always looking to improve and master new skills.  
 Open and honest individual.  
 I enjoy solving problems and overcoming challenges.    
-Modest, but hard working and I consistently set firm goals for myself.   
+I am modest but hard-working and I consistently set firm goals for myself.   
 
 * 🌍  I'm based in Varna
 * ✉️  You can contact me at [popovstzid@gmail.com](mailto:popovstzid@gmail.com)
@@ -22,8 +22,8 @@ Modest, but hard working and I consistently set firm goals for myself.
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/pepk0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepk0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/pepk0"><img src="https://github-readme-stats.vercel.app/api?username=pepk0&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=0f172a&hide_border=true&show_icons=true" alt="pepk0's GitHub stats" /></a>
+<a href="https://github.com/pepk0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepk0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
+<a href="http://www.github.com/pepk0"><img src="https://github-readme-stats.vercel.app/api?username=pepk0&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=0f172a&hide_border=true&show_icons=true" alt="pepk0's GitHub stats" /></a> 
 <a href="http://www.github.com/pepk0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pepk0&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
