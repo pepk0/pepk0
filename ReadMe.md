@@ -24,7 +24,7 @@ I am modest but hard-working and I consistently set firm goals for myself.
 <b>My GitHub Stats</b>
 
 ![pepk0's Stats](https://github-readme-stats.vercel.app/api?username=pepk0&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-![pepk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pepk0&theme=algolia&hide_border=true)
+![pepk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pepk0&theme=algolia&hide_border=true)  
 ![pepk0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pepk0&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
