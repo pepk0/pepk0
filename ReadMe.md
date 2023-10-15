@@ -14,13 +14,15 @@ I am modest but hard-working and I consistently set firm goals for myself.
 
 <div class="social_badges" align="left">
     <h3>Skills and Stats:</h3>
+    <a href="https://www.python.org/" _target="blank">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python_badge">
+        </a>
     <a href="https://en.wikipedia.org/wiki/CSS" _target="blank">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css_badge">
     </a>
     <a href="https://en.wikipedia.org/wiki/HTML" _target="blank">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5_badge">
-    <a href="https://www.python.org/" _target="blank">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python_badge">
+    </a>
     <a href="https://www.djangoproject.com/" _target="blank">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django_badge">
     </a>
