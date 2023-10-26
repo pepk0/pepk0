@@ -26,9 +26,6 @@ I am modest but hard-working and I consistently set firm goals for myself.
     <a href="https://www.djangoproject.com/" _target="blank">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django_badge">
     </a>
-    <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" _target="blank">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c_badge">
-    </a>
 </div>
 <br></br>
 
