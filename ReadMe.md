@@ -2,7 +2,7 @@ Hey There! 👋
 My name is Petar. 
 =================================================================================================================================================
 
-### About me 👨‍💻
+### About me 🧑‍💻
 I'm an active learner, always looking to improve and master new skills.  
 Open and honest individual.  
 I enjoy solving problems and overcoming challenges.    
